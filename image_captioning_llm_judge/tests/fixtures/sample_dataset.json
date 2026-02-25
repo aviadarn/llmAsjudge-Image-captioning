@@ -1,0 +1,14 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "file_name": "sample_image.jpg"
+    }
+  ],
+  "annotations": [
+    {
+      "image_id": 1,
+      "caption": "a tiny white pixel"
+    }
+  ]
+}
